@@ -5,7 +5,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/Ruairi-azyra/Shields?logo=Github)
 ![GitHub top language](https://img.shields.io/github/languages/top/Ruairi-azyra/Shields?color=%20%23fea52e%20&logo=Github)
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/Ruairi-azyra/Shields?logo=GitHub)
-![GitHub Repo stars](http://localhost/github/stars/Ruairi-azyra/Shields?style=social)
+
 
 
 
